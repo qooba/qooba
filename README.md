@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=qooba&show_icons=true&theme=apprentice)](https://github.com/qooba)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qooba&theme=apprentice&layout=compact&hide=jupyter%20notebook)](https://github.com/qooba)
 
 <!--
 **qooba/qooba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
